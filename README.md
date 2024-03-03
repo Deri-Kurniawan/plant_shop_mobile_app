@@ -8,13 +8,9 @@ Only a Challenge for my self to implement [Plant Shop App](https://dribbble.com/
 
 This is a demo of the app:
 
-![Plant Shop App](/docs/demo.gif)
-
-1. Welcome Screen
-![Welcome Screen](/docs/welcome-screen.jpg)
-
-2. Home Screen
-![Home Screen](/docs/home-screen.jpg)
-
-3. Detail Screen
-![Detail Screen](/docs/detail-plant-screen.jpg)
+<div class="flex">
+    <img src="/docs/demo.gif" width="250">
+    <img src="/docs/welcome-screen.jpg" width="200">
+    <img src="/docs/home-screen.jpg" width="200">
+    <img src="/docs/detail-plant-screen.jpg" width="200">
+</div>
