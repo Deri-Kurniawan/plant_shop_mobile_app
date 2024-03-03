@@ -25,7 +25,7 @@ const HomePlantItem = ({ data, navigation, plantFavoriteHandle }) => {
     >
       <Image
         source={data.image}
-        resizeMode="contain"
+        resizeMode="cover"
         style={{
           zIndex: -1,
           width: "100%",
